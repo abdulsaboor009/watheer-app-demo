@@ -6,6 +6,12 @@ The platform allows users to explore mental health specialists, book appointment
 
 ---
 
+## 🌐 Live Demo
+
+🔗 Web Demo: https://watheer-demo.web.app
+
+---
+
 ## ✨ Features
 
 ### 🩺 Telehealth & Consultation
@@ -14,6 +20,18 @@ The platform allows users to explore mental health specialists, book appointment
 - Book online appointments
 - Appointment scheduling with time slot selection
 - Session tracking and status management
+
+---
+
+<img width="1500" height="3248" alt="Home Screen – Psychological Care" src="https://github.com/user-attachments/assets/92642cd7-8851-4baf-84ac-062a78d03d64" />
+<img width="1532" height="3280" alt="Home Screen – Other Services" src="https://github.com/user-attachments/assets/3807eb78-24e0-4359-925e-1b8344e5fe45" />
+<img width="1500" height="3248" alt="Navigation Drawer" src="https://github.com/user-attachments/assets/354e6285-1d14-43b1-9d20-0e23a3793f03" />
+<img width="1500" height="3248" alt="Mood Tracker" src="https://github.com/user-attachments/assets/4a9893df-f420-4f0d-9d31-191cd11bc152" />
+<img width="1500" height="4128" alt="Psychiatry" src="https://github.com/user-attachments/assets/340fd800-351e-4f6c-8990-029a9c7dce38" />
+<img width="1500" height="4128" alt="Psychotherapy" src="https://github.com/user-attachments/assets/058934ce-437b-44e7-bb96-c0cb64990caf" />
+<img width="1500" height="3248" alt="Doctor Profile" src="https://github.com/user-attachments/assets/5455a5c7-26d0-4342-b7f8-31f64af38501" />
+
+---
 
 ### 🎓 Courses & Professional Development
 - Explore mental health courses and training sessions
